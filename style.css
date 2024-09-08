@@ -1,0 +1,154 @@
+body{
+    color:blanchedalmond;
+    font-family: "montserrat";
+    font-size: 20px;
+    text-align: center;
+    background-image: url(Iron\ Man_complete_face.jpg);
+    background-repeat:round;
+    background-size:auto;
+    align-items:baseline;
+    margin: 10%;
+    
+   
+  
+}
+
+
+h1{
+    color:  hsl(0, 92%, 39%);
+    font-family: -apple-system;
+    text-shadow: 1px 2px 1px hsl(49, 94%, 37%);
+    text-align: center;
+     
+}
+
+
+h2{
+    color:  hsl(0, 92%, 39%);
+    font-family: -apple-system;
+    text-shadow: 1px 2px 1px hsl(49, 94%, 37%);
+    text-align: justify;
+
+}
+.p{
+    color: black;
+    background-color: rgb(180, 6, 6);
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+
+}
+
+h3{
+    color:  hsl(0, 92%, 39%);
+    font-family: -apple-system;
+    text-shadow: 1px 2px 1px hsl(49, 94%, 37%);
+    text-align: center;
+}
+
+.img-prime{
+    width: 300px;
+    height: 600px;
+   
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.filme{
+    text-align: justify; 
+    align-items: justify;   
+    
+}
+
+img{
+    width: 290px;
+    height: auto;
+}
+a{
+    text-decoration: none;
+    font-family: system-ui;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color:rgb(69, 123, 151);
+}
+
+.container-resultado{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+.item{
+    flex: 1;
+    color: black;
+    background-color: rgb(180, 6, 6);
+    text-align: center;
+    align-items: center;
+    font-weight: bold;
+    
+}
+
+.descricao-meta{
+    margin: 0.5rem 0;
+    width: 100%;
+    text-align: justify;
+
+}
+
+.item-carousel{
+    flex: 1;
+    color: black;
+    background-color: rgb(180, 6, 6);
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin:10%;
+
+}
+.container-car {
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+  }
+  
+  .carousel {
+    display: flex;
+    overflow-x: hidden;
+  }
+  
+  .item {
+    flex: 0 0 50%;
+    text-align: center;
+    padding: 20px;
+  }
+
+.foo{
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+
+footer{
+    background-color: rgba(134, 104, 14, 0.759);
+    padding: 90px;
+    position: absolute;
+    font-size: 2rem;
+    margin: 10%;
+}
+
+
+
+    
+
+
+
+
+
+
+
