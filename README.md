@@ -4,7 +4,7 @@
 **DESCRIÇÃO:**
 
 Um projeto simples de apresentação, para quem tem interesse nas tecnologias criadas por Tony Stark.
-Listando 14 criações, apresentei 6 mais vistas, com links como ponte á outras informações e curiosidades
+Listando 14 criações, apresentei apenas 6 mais vistas, com links como ponte á outras informações e curiosidades
 
 **TECNOLOGIAS UTILIZADAS:**
 HTML: Cria a estrutura básica da página.
