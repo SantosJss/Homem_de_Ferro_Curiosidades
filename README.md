@@ -12,7 +12,7 @@ CSS: Defina a aparência visual da página.
 JavaScript: Adiciona interatividade e comportamento dinâmico à página.
 
 **COMO USAR**
-É uma aplicação simples, o usuaria terá acesso as informações do site pelo carrossel, que apresenta o nome de cada inteligentencia artificial
+É uma aplicação simples, o usuario terá acesso as informações do site pelo carrossel, que apresenta o nome de cada inteligencia artificial
 Em cada nome apresentado no carrosel, apresenta um link, acessado por um clique
 Abaixo os 3 filmes estão sendo apresentados, todos com links de direcionamento
 
